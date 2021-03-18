@@ -1,6 +1,6 @@
 <template>
   <div id='app'>
-    <h1> yummy food shop </h1>
+    <h1> Yummy food shop </h1>
     <router-view></router-view>
   </div>
 
